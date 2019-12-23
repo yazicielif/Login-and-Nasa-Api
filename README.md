@@ -14,7 +14,7 @@ Mobil Programlama Dersi
                              
 ## ÖZET
 
-Ödevde yapılması yapılması istenen uygulama React-Native ile JavaScript dilinde gerçekleştirildi. Firebase üzerinden login işlemleri, NasaApi’den günlük marsa görüntüleri kullanılmıştır.
+Ödevde yapılması yapılması istenen uygulama React-Native ile JavaScript dilinde gerçekleştirildi. Firebase üzerinden login işlemleri, NasaApi’den günlük Mars görüntüleri ve verileri kullanılmıştır.
   
 ## GELİŞTİRİLEN YAZILIM
 
