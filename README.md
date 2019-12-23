@@ -1,11 +1,11 @@
- 
-#T.C.SAKARYA ÜNİVERSİTESİ 
+ # T.C SAKARYA ÜNİVERSİTESİ
 
-##BİLGİSAYAR VE BİLİŞİM BİLİMLERİ FAKÜLTESİ
-##BİLGİSAYAR MÜHENDİSLİĞİ BÖLÜMÜ
-##MOBİL PROGRAMLAMA PROJE RAPORU
 
-##PROJE ÖDEVİ RAPORU
+ # BİLGİSAYAR VE BİLİŞİM BİLİMLERİ FAKÜLTESİ
+ # BİLGİSAYAR MÜHENDİSLİĞİ BÖLÜMÜ
+ # MOBİL PROGRAMLAMA PROJE RAPORU
+
+## PROJE ÖDEVİ RAPORU
 
 Hazırlayan:
 G161210090– ELİF YAZICI – 1A
@@ -15,16 +15,16 @@ SAKARYA
 Aralık, 2019
 Mobil Programlama Dersi
                              
-#ÖZET
+## ÖZET
 
 Ödevde yapılması yapılması istenen uygulama React-Native ile JavaScript dilinde gerçekleştirildi. Firebase üzerinden login işlemleri, NasaApi’den günlük marsa görüntüleri kullanılmıştır.
   
-##GELİŞTİRİLEN YAZILIM
+## GELİŞTİRİLEN YAZILIM
 
 Programda Firebase ile login işlemleri sağlandı. Firebase bağlantılarında web uygulamaları  firebase sdk snippet kullanılmıştır. 
 Api olarak NasaApi kullanılmış olup günlük marsta çekilen fotoğraflar apiden çekilmiştir.
 
-##ÇIKTILAR
+## ÇIKTILAR
 
 Nasa Api
 [![image](https://i.hizliresim.com/5NBbRD.png)](https://hizliresim.com/5NBbRD)
