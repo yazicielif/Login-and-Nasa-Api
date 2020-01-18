@@ -19,7 +19,7 @@ Mobil Programlama Dersi
 ## GELİŞTİRİLEN YAZILIM
 
 Programda Firebase ile login işlemleri sağlandı. Firebase bağlantılarında web uygulamaları  firebase sdk snippet kullanılmıştır. 
-Api olarak NasaApi kullanılmış olup günlük marsta çekilen fotoğraflar apiden çekilmiştir.
+Api olarak NasaApi kullanılmış olup marsta çekilen fotoğraflar apiden çekilmiştir.
 
 ## ÇIKTILAR
 
