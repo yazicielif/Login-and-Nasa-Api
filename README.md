@@ -1,11 +1,3 @@
- # T.C SAKARYA ÜNİVERSİTESİ
-
-## BİLGİSAYAR VE BİLİŞİM BİLİMLERİ FAKÜLTESİ BİLGİSAYAR MÜHENDİSLİĞİ BÖLÜMÜ
- # MOBİL PROGRAMLAMA PROJE RAPORU
-
-SAKARYA
-Aralık, 2019
-Mobil Programlama Dersi
                              
 ## ÖZET
 
