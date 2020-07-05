@@ -1,7 +1,7 @@
                              
 ## ÖZET
 
-Ödevde yapılması yapılması istenen uygulama React-Native ile JavaScript dilinde gerçekleştirildi. Firebase üzerinden login işlemleri, NasaApi’den günlük Mars görüntüleri ve verileri kullanılmıştır.
+Ödevde yapılması yapılması istenen uygulama React-Native ile JavaScript dilinde gerçekleştirildi. Firebase üzerinden login işlemleri, NasaApi’den Mars görüntüleri ve verileri kullanılmıştır.
   
 ## GELİŞTİRİLEN YAZILIM
 
